@@ -1,6 +1,6 @@
 # Hola 👋, Bienvenidos a Personal English Knowledge (PEK) 🚀
 
-🌏 [Inglés](https://github.com/hoodyth/.github/blob/main/profile/README.en.md) | [Español](https://github.com/hoodyth/.github/blob/main/profile/README.md)
+🌏 [Inglés](https://github.com/PEK-Personal-English-Knowledge/.github/blob/main/profile/README.en.md) | [Español](https://github.com/PEK-Personal-English-Knowledge/.github/blob/main/profile/README.md)
 
 # Una comunidad para aprender y practicar Inglés completamente GRATIS!
 
